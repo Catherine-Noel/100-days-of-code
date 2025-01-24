@@ -29,6 +29,6 @@ Welcome to my journey of 100 Days of Code! This challenge is all about improving
 Getting up and running in VSCode was more involved then I anticipated.  I am really looking forward to learning data persistence and how to build a UI.  Python has some really neat features and I am having blast! 
 
 🔗**Links to work:**
-[Day one: Band Name Generator](/Day_001/band_name_gen.py)
-[Madlibs Stories](/Day_001/madlibs.py)
+- [Day one: Band Name Generator](/Day_001/band_name_gen.py)
+- [Madlibs Stories](/Day_001/madlibs.py)
 
