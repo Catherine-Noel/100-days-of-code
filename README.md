@@ -21,7 +21,7 @@ Welcome to my journey of 100 Days of Code! This challenge is all about improving
 ### Day 1: January 23, 2025
 🖥️ **Today's Progress:**
 - Set up dev environment & repository
-- Completed Day 1 of  Python course
+- Completed Day 1 of Python course
 - Built a cipher & learned string manipulation on FreeCodeCamp
 - Created a fun Madlibs script!
 
@@ -37,12 +37,14 @@ Getting up and running in VSCode was more involved then I anticipated.  I am rea
 - Researched and signed up for several practice / challenge sites
 - Fixed some errors in the Madlibs script from Day 1
 - Made an Ideas file
-
+- Completed Day 2 of Python course
+- Implemented the Luhn Algorithm to build a credit card verification 
+- Looked into GUI resources
 
 💭**Thoughts:**
-I got side tracked by some of neat ideas to make the Madlibs script from day 1 more fun while showing it off. Because I was not working on todays project I feel like the time was wasted in a way.  I do want to be able to have these ideas and take action on them at some point so I made a place for them to live while they wait. 
+I got side tracked by some of neat ideas to make the Madlibs script from day 1 more fun while showing it off. Because I was not working on todays project I feel like the time was wasted in a way.  I do want to be able to have these ideas and take action on them at some point so I made a place for them to live while they wait. Looking into GUI info was overwhelming! 
 
 🔗**Links to work:**
 - [Ideas list](/IDEAS.md)
-
+- [Tip Calculator](/Day_002/tip_calculator.py)
 
