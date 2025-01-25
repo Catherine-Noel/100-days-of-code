@@ -17,8 +17,8 @@ print('Welcome to my madlibs story creator!  Simply answer the prompts and I wil
 if story_number == 1:
     print(f'The Robot Factory\nIn the factory, I saw {plural_noun} coming out of a {color} {noun}. The robots ate {food} and looked like a {animal}. After {number} tests, I felt {emotion} about the invention.')
 elif story_number == 2:
-    print(f'The Great Escape\nI was eating {food} near a {color} (noun) when I saw a group of {plural_noun} running toward me. They were being chased by a {animal}! It took me {number} minutes to hide behind a tree, feeling (emotion) the whole time.')
+    print(f'The Great Escape\nI was eating {food} near a {color} {noun} when I saw a group of {plural_noun} running toward me. They were being chased by a {animal}! It took me {number} minutes to hide behind a tree, feeling {emotion} the whole time.')
 elif story_number == 3:
-    print(f'A Day of Chaos\nOut of nowhere, a {animal} appeared, holding a {color} (noun) in its mouth. It ran past a pile of {plural_noun} and snatched my {food}! It took {number} tries to catch it, and by the end, I felt completely (emotion).')
+    print(f'A Day of Chaos\nOut of nowhere, a {animal} appeared, holding a {color} {noun} in its mouth. It ran past a pile of {plural_noun} and snatched my {food}! It took {number} tries to catch it, and by the end, I felt completely {emotion}.')
 else:
     print('oh no things are not right... ')
