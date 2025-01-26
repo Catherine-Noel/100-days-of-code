@@ -48,3 +48,14 @@ I got side tracked by some of neat ideas to make the Madlibs script from day 1 m
 - [Ideas list](/IDEAS.md)
 - [Tip Calculator](/Day_002/tip_calculator.py)
 
+### Day 3: January 25, 2025
+🖥️ **Today's Progress:**
+- Completed Day 3 of Python course
+
+
+💭**Thoughts:**
+I looked at a few larger python based open source projects today. I did not fully understand the hows and whys of most of what I saw; but, I now have a deeper appreciation for comments and really want to work on making sure that I get into the habit of commenting as I code. 
+
+🔗**Links to work:**
+- [Pizza Price  Finder](/Day_003/pizza_cost.py)
+- [Text Game: Treasure Island](/Day_003/treasureisland.py)
