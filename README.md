@@ -59,3 +59,16 @@ I looked at a few larger python based open source projects today. I did not full
 🔗**Links to work:**
 - [Pizza Price  Finder](/Day_003/pizza_cost.py)
 - [Text Game: Treasure Island](/Day_003/treasureisland.py)
+
+### Day 4: January 26, 2025
+🖥️ **Today's Progress:**
+- Completed (some) of Day 4 of Python course
+- Worked with modules and lists with a focus on using nested lists. 
+
+
+💭**Thoughts:**
+Navigating through nested lists is a bit tricky but I am sure in time it will be something I don't have to think so hard about! I did nto have a ton of time to work today so was not able to finish all the items in day 4... I was trying to quickly finish the Rock, Paper, Scissors game to finish teh day out.. but sleep is calling.  I will enjoy getting it done tomorrow with a fresh brain! 
+
+🔗**Links to work:**
+- [Heads or Tails](/Day_004/heads_or_tails.py)
+- [Rock, Paper, Scissors](/Day_004/rps.py) (Incomplete)
