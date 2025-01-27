@@ -27,18 +27,30 @@ scissors = '''
 ---.__(___)
 '''
 
+game_states = ['Rock', 'Paper', 'Scissors']
+player_choice = input('Pick you fighter.... Rock, Paper, or Scissors?:\n')
 
-game_start = 'Pick you fighter.... Rock, Paper, or Scissors?:\n'
-choice= input(' Enter R, P, or S\n').capitalize
 
-my_pick = random.randrange(1,3)
+random_pick = random.choice(game_states) #Rock = 0, Paper = 1, Scissors = 2
 
-if my_pick == 1: # Rock
-    print("I pick... rock!")
-elif my_pick == 2: # Paper
-    print("I pick... paper!")
-elif my_pick == 3: # Scissors
-    print("I pick... scissors!")
-else:
-    print("Error!")
+if player_choice == random_pick:
+    print(f'We both picked {random_pick}.... It was a tie!')
+
+elif player_choice == "Rock": #Player picked Rock
+    if random_pick == "Paper": #Paper covers Rock
+        print(f'I picked Paper\n{paper}\nI Win!')
+    elif random_pick == "Scissors":#Rock breaks Scissors
+        print(f'I picked Scissors\n{scissors}\nYou Win!')
+
+elif player_choice == "Scissors": #Player picked Scissors
+    if random_pick == "Paper": #Scissors cut paper
+        print(f'I picked Paper\n{paper}\nYou Win!') 
+    elif random_pick == "Rock":#Rock breaks Scissors
+        print(f'I picked Rock\n{rock}\nI Win!')
+
+elif player_choice == "Paper": #Player picked Paper
+    if random_pick == "Rock":  #Paper covers Rock
+        print(f'I picked Rock\n{rock}\nYou Win!')
+    elif random_pick == "Scissors":  #Scissors cut paper
+        print(f'I picked Scissors\n{scissors}\nI Win!')
 
