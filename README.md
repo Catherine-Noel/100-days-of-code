@@ -67,8 +67,22 @@ I looked at a few larger python based open source projects today. I did not full
 
 
 💭**Thoughts:**
-Navigating through nested lists is a bit tricky but I am sure in time it will be something I don't have to think so hard about! I did nto have a ton of time to work today so was not able to finish all the items in day 4... I was trying to quickly finish the Rock, Paper, Scissors game to finish teh day out.. but sleep is calling.  I will enjoy getting it done tomorrow with a fresh brain! 
+Navigating through nested lists is a bit tricky but I am sure in time it will be something I don't have to think so hard about! I did nto have a ton of time to work today so was not able to finish all the items in day 4... I was trying to quickly finish the Rock, Paper, Scissors game to finish the day out.. but sleep is calling.  I will enjoy getting it done tomorrow with a fresh brain! 
 
 🔗**Links to work:**
 - [Heads or Tails](/Day_004/heads_or_tails.py)
 - [Rock, Paper, Scissors](/Day_004/rps.py) (Incomplete)
+
+### Day 5: January 27, 2025
+🖥️ **Today's Progress:**
+- Finished Day 4 of Python course with the Rock, Paper, Scissors Project
+- Completed Day 5 of Python course
+- Several challenges from around the web
+
+💭**Thoughts:**
+- Had a blast today and am really proud of my password generator!
+
+🔗**Links to work:**
+- [Rock, Paper, Scissors](/Day_004/rps.py)
+- [Finding max value in a list](/Day_005/find_max_value.py)
+= [Password Generator](/Day_005/password_gen.py)
