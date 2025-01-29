@@ -54,7 +54,7 @@ I got side tracked by some of neat ideas to make the Madlibs script from day 1 m
 
 
 💭**Thoughts:**
-I looked at a few larger python based open source projects today. I did not fully understand the hows and whys of most of what I saw; but, I now have a deeper appreciation for comments and really want to work on making sure that I get into the habit of commenting as I code. 
+- I looked at a few larger python based open source projects today. I did not fully understand the hows and whys of most of what I saw; but, I now have a deeper appreciation for comments and really want to work on making sure that I get into the habit of commenting as I code. 
 
 🔗**Links to work:**
 - [Pizza Price  Finder](/Day_003/pizza_cost.py)
@@ -67,7 +67,7 @@ I looked at a few larger python based open source projects today. I did not full
 
 
 💭**Thoughts:**
-Navigating through nested lists is a bit tricky but I am sure in time it will be something I don't have to think so hard about! I did nto have a ton of time to work today so was not able to finish all the items in day 4... I was trying to quickly finish the Rock, Paper, Scissors game to finish the day out.. but sleep is calling.  I will enjoy getting it done tomorrow with a fresh brain! 
+- Navigating through nested lists is a bit tricky but I am sure in time it will be something I don't have to think so hard about! I did nto have a ton of time to work today so was not able to finish all the items in day 4... I was trying to quickly finish the Rock, Paper, Scissors game to finish the day out.. but sleep is calling.  I will enjoy getting it done tomorrow with a fresh brain! 
 
 🔗**Links to work:**
 - [Heads or Tails](/Day_004/heads_or_tails.py)
@@ -85,4 +85,16 @@ Navigating through nested lists is a bit tricky but I am sure in time it will be
 🔗**Links to work:**
 - [Rock, Paper, Scissors](/Day_004/rps.py)
 - [Finding max value in a list](/Day_005/find_max_value.py)
-= [Password Generator](/Day_005/password_gen.py)
+- [Password Generator](/Day_005/password_gen.py)
+
+### Day 6: January 28, 2025
+🖥️ **Today's Progress:**
+- Day 6 of Python- loops and more logic with https://reeborg.ca/
+- Made a UI for my tip calculator!
+
+💭**Thoughts:**
+- Reeborg's world was a fun way to work with code. I can't believe I figured out UI stuff as much as I did... 
+
+
+🔗**Links to work:**
+- [UI Tip Calculator](/Day_006/gui.py)
